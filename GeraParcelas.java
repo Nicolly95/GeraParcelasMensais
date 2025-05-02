@@ -1,4 +1,4 @@
-//Essa classe cria n parcelas de vencimento a partir de uma data inicial
+//Essa classe cria n parcelas de vencimentos a partir de uma data inicial
 package Datas;
 
 import java.text.ParseException;
