@@ -1,7 +1,6 @@
 //Essa classe cria n parcelas de vencimento a partir de uma data inicial
 package Datas;
 
-import java.sql.SQLOutput;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
